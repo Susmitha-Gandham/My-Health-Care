@@ -1,0 +1,12 @@
+.starting {
+    margin: 15rem auto;
+    text-align: center;
+  }
+  
+  .starting h1 {
+    font-size: 3rem;
+  }
+
+  .displaymessage {
+    color: #38015c;
+  }
